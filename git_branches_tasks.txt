@@ -1,0 +1,12 @@
+
+Make a new branch called bugFix
+Checkout the bugFix branch with git checkout bugFix
+Commit once
+Go back to main with git checkout
+Commit another time
+Merge the branch bugFix into main with git merge
+
+Checkout a new branch named bugFix
+Commit once
+Go back to main and commit again
+Check out bugFix again and rebase onto main
